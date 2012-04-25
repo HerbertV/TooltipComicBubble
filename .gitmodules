@@ -1,0 +1,3 @@
+[submodule "src/as3/hv/components"]
+	path = src/as3/hv/components
+	url = git@github.com:HerbertV/RAW-as3-hv-components.git
